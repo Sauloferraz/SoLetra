@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a122622ba0c230c4b99e3bc10ad372ad, type: 3}
+  m_Name: CatalogoSons
+  m_EditorClassIdentifier: Assembly-CSharp::SomCatalogo
+  sons:
+  - nome: Acerto
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: d6c3b1c6070ada54f82aa8ff5d0ba0d3, type: 3}
+    volume: 0.5
+    variacaoTom: 0.1
+    intervaloMinimo: 0
+  - nome: Erro
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: 6602b3258c5e5a74aada89e6c8a80007, type: 3}
+    volume: 0.9
+    variacaoTom: 0
+    intervaloMinimo: 0
+  - nome: PalavraCompleta
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: ffacf8010a6f7164fa38b3b3e3bb950a, type: 3}
+    volume: 0.5
+    variacaoTom: 0
+    intervaloMinimo: 0
+  - nome: Estrela
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: b630238ea79746d46a85ef7b3862ce6c, type: 3}
+    volume: 0.15
+    variacaoTom: 0.0401
+    intervaloMinimo: 0.15
+  - nome: FimDeFase
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: f03ff131c9a94da48bfab53cc2954c51, type: 3}
+    volume: 0.7
+    variacaoTom: 0
+    intervaloMinimo: 0
+  - nome: FigurinhaNova
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: e069f272526f39642a4e85a9e9044fe9, type: 3}
+    volume: 0.7
+    variacaoTom: 0.2
+    intervaloMinimo: 0
+  - nome: TimerTique
+    categoria: 1
+    clipes:
+    - {fileID: 8300000, guid: 43e5b048cb507604a80fd51d79cf490c, type: 3}
+    volume: 0.7
+    variacaoTom: 0
+    intervaloMinimo: 0.2
+  - nome: TimerAcabou
+    categoria: 1
+    clipes:
+    - {fileID: 8300000, guid: 55247e5225df05d4c84183e459f94674, type: 3}
+    volume: 0.7
+    variacaoTom: 0
+    intervaloMinimo: 0
+  - nome: Menu
+    categoria: 0
+    clipes:
+    - {fileID: 8300000, guid: 6cb2cf23361104c40a313b0894a0ef03, type: 3}
+    volume: 0.7
+    variacaoTom: 0
+    intervaloMinimo: 0

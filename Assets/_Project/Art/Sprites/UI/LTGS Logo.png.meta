@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 43f7c5b445ce7b747880111f075c2603
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8858558353175548866
+    second: LTGS Logo_0
+  - first:
+      213: 4502639865108789456
+    second: LTGS Logo_1
+  - first:
+      213: -1144468866856106084
+    second: LTGS Logo_2
+  - first:
+      213: -437379940169381306
+    second: LTGS Logo_3
+  - first:
+      213: 4310114036961340032
+    second: LTGS Logo_4
+  - first:
+      213: -192476604223381510
+    second: LTGS Logo_5
+  - first:
+      213: 7638213436357893124
+    second: LTGS Logo_6
+  - first:
+      213: 2499034040362268249
+    second: LTGS Logo_7
+  - first:
+      213: -6863105176935405237
+    second: LTGS Logo_8
+  - first:
+      213: 1825430895220327328
+    second: LTGS Logo_9
+  - first:
+      213: 6184236913795151986
+    second: LTGS Logo_10
+  - first:
+      213: 6286473386418987088
+    second: LTGS Logo_11
+  - first:
+      213: 6500514312354584643
+    second: LTGS Logo_12
+  - first:
+      213: 3214211501860593574
+    second: LTGS Logo_13
+  - first:
+      213: 8170173767534173630
+    second: LTGS Logo_14
+  - first:
+      213: -2688173861069710625
+    second: LTGS Logo_15
+  - first:
+      213: 3362490343405747392
+    second: LTGS Logo_16
+  - first:
+      213: 6056514741999056318
+    second: LTGS Logo_17
+  - first:
+      213: 505027087289079744
+    second: LTGS Logo_18
+  - first:
+      213: -3875284455513564106
+    second: LTGS Logo_19
+  - first:
+      213: 7008324983237771408
+    second: LTGS Logo_20
+  - first:
+      213: -733169740832613706
+    second: LTGS Logo_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LTGS Logo_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 595
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3191733ebefea70800000000000000
+      internalID: 8858558353175548866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 577
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8725fe9179c7e30800000000000000
+      internalID: 4502639865108789456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 590
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c974c8611a70e10f0800000000000000
+      internalID: -1144468866856106084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 608
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8252034d1ee9f0800000000000000
+      internalID: -437379940169381306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 618
+        width: 47
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a618271e990db30800000000000000
+      internalID: 4310114036961340032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 621
+        width: 36
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff11b95c8f245df0800000000000000
+      internalID: -192476604223381510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 615
+        width: 51
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5ab0c6a2600a60800000000000000
+      internalID: 7638213436357893124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 602
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f661283a5ea220800000000000000
+      internalID: 2499034040362268249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 588
+        width: 41
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49ee90343a51c0a0800000000000000
+      internalID: -6863105176935405237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 574
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a381a74abb355910800000000000000
+      internalID: 1825430895220327328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 75
+        width: 706
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783e9525b2d2d550800000000000000
+      internalID: 6184236913795151986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050637fdc3a0e3750800000000000000
+      internalID: 6286473386418987088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 38
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348dc3d6357763a50800000000000000
+      internalID: 6500514312354584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 38
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af1061d45c2b9c20800000000000000
+      internalID: 3214211501860593574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 38
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd61f01c9426170800000000000000
+      internalID: 8170173767534173630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 38
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda137cad10b1bad0800000000000000
+      internalID: -2688173861069710625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 38
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc716fe627f9ae20800000000000000
+      internalID: 3362490343405747392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 38
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb535cda1101d0450800000000000000
+      internalID: 6056514741999056318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 38
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7d0dbc577320700800000000000000
+      internalID: 505027087289079744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 86
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5581e159383ac0800000000000000
+      internalID: -3875284455513564106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 38
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900268c072924160800000000000000
+      internalID: 7008324983237771408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LTGS Logo_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 38
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5b95510243d5f0800000000000000
+      internalID: -733169740832613706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LTGS Logo_0: 8858558353175548866
+      LTGS Logo_1: 4502639865108789456
+      LTGS Logo_10: 6184236913795151986
+      LTGS Logo_11: 6286473386418987088
+      LTGS Logo_12: 6500514312354584643
+      LTGS Logo_13: 3214211501860593574
+      LTGS Logo_14: 8170173767534173630
+      LTGS Logo_15: -2688173861069710625
+      LTGS Logo_16: 3362490343405747392
+      LTGS Logo_17: 6056514741999056318
+      LTGS Logo_18: 505027087289079744
+      LTGS Logo_19: -3875284455513564106
+      LTGS Logo_2: -1144468866856106084
+      LTGS Logo_20: 7008324983237771408
+      LTGS Logo_21: -733169740832613706
+      LTGS Logo_3: -437379940169381306
+      LTGS Logo_4: 4310114036961340032
+      LTGS Logo_5: -192476604223381510
+      LTGS Logo_6: 7638213436357893124
+      LTGS Logo_7: 2499034040362268249
+      LTGS Logo_8: -6863105176935405237
+      LTGS Logo_9: 1825430895220327328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

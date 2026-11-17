@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae4ec84d280e2d47bf0afb3a2047c26, type: 3}
+  m_Name: BALEIA
+  m_EditorClassIdentifier: Assembly-CSharp::PalavraData
+  mundo: 2
+  texto: BALEIA
+  silabas:
+  - BA
+  - LEI
+  - A
+  imagem: {fileID: 21300000, guid: 7c9758640ff4ae344b8e6013e4dea95e, type: 3}
+  audio: {fileID: 8300000, guid: c7a14b47519b7914bba8ddc6d73cf207, type: 3}

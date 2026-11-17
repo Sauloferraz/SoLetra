@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae4ec84d280e2d47bf0afb3a2047c26, type: 3}
+  m_Name: ABACAXI
+  m_EditorClassIdentifier: Assembly-CSharp::PalavraData
+  mundo: 2
+  texto: ABACAXI
+  silabas:
+  - A
+  - BA
+  - CA
+  - XI
+  imagem: {fileID: 21300000, guid: 9ac131eadc4b7db43a06dc28e49d65eb, type: 3}
+  audio: {fileID: 8300000, guid: ddb6c5507afb2fc43b997a5e2a4d9894, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Menu.unity
+    guid: 34e26919599d9e449bd895d79fd4c856
+  - enabled: 1
+    path: Assets/_Project/Scenes/Trilha.unity
+    guid: 24e3a1449b29c604292e38b8d14e59ea
+  - enabled: 1
+    path: Assets/_Project/Scenes/MinijogoMonteAPalavra.unity
+    guid: fb20e591138c2434ca56b983c7110199
+  - enabled: 1
+    path: Assets/_Project/Scenes/MinijogoQualEAPalavra.unity
+    guid: 73b5685fba7c0b44d81d06d9e3ca3ab4
+  - enabled: 1
+    path: Assets/_Project/Scenes/MinijogoJunteAsSilabas.unity
+    guid: f61ffc0649718bd4dbe701aeac48a61c
+  - enabled: 1
+    path: Assets/_Project/Scenes/Album.unity
+    guid: c03aa6b6af0aaea4390489cc8f62b03c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

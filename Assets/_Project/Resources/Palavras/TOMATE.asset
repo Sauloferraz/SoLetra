@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae4ec84d280e2d47bf0afb3a2047c26, type: 3}
+  m_Name: TOMATE
+  m_EditorClassIdentifier: Assembly-CSharp::PalavraData
+  mundo: 2
+  texto: TOMATE
+  silabas:
+  - TO
+  - MA
+  - TE
+  imagem: {fileID: 21300000, guid: 837862362ba664644bf8f0270e26c56c, type: 3}
+  audio: {fileID: 8300000, guid: 5b609f5f2d913e640914e754c14e081c, type: 3}
